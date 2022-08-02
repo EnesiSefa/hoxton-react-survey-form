@@ -21,25 +21,25 @@ function Main() {
             <li>
               <label>
                 <input type="checkbox" />
-                <span>It's yellow!</span>
+                <span className="checkbox-span">It's yellow!</span>
               </label>
             </li>
             <li>
               <label>
                 <input type="checkbox" />
-                <span>It squeaks!</span>
+                <span className="checkbox-span">It squeaks!</span>
               </label>
             </li>
             <li>
               <label>
                 <input type="checkbox" />
-                <span>It has a logo!</span>
+                <span className="checkbox-span">It has a logo!</span>
               </label>
             </li>
             <li>
               <label>
                 <input type="checkbox" />
-                <span>Its big!</span>
+                <span className="checkbox-span">Its big!</span>
               </label>
             </li>
           </ul>
@@ -49,27 +49,27 @@ function Main() {
           </h3>
           <ul className="checkbox-list">
             <li>
-              <label>
+              <label className="label">
                 <input type="checkbox" />
-                <span>It's yellow!</span>
+                <span className="checkbox-span">It's yellow!</span>
               </label>
             </li>
             <li>
-              <label>
+              <label className="label">
                 <input type="checkbox" />
-                <span>It squeaks!</span>
+                <span className="checkbox-span">It squeaks!</span>
               </label>
             </li>
             <li>
-              <label>
+              <label className="label">
                 <input type="checkbox" />
-                <span>It has a logo!</span>
+                <span className="checkbox-span">It has a logo!</span>
               </label>
             </li>
             <li>
-              <label>
+              <label className="label">
                 <input type="checkbox" />
-                <span>Its big!</span>
+                <span className="checkbox-span">Its big!</span>
               </label>
             </li>
           </ul>

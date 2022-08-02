@@ -120,10 +120,15 @@ h2 {
 
 .form > label {
   display: block;
+  grid-gap: 20px;
+}
+.checkbox-span{
+  padding: 10px;
 }
 .label{
+
   
-  gap: 3rem;
+  grid-gap: 3rem;
 }
 
 .form textarea {
